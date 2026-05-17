@@ -3,7 +3,7 @@
     font-family: Satoshi;
     font-style: normal;
     font-weight: 300 900;
-    src: url(/_next/static/media/Satoshi-Variable.d9396795.woff2) format("woff2"), url(/_next/static/media/Satoshi-Variable.5fada1b1.woff) format("woff"), url(/_next/static/media/Satoshi-Variable.8[...]
+    src: url(/_next/static/media/Satoshi-Variable.d9396795.woff2) format("woff2"), url(/_next/static/media/Satoshi-Variable.5fada1b1.woff) format("woff"), url(/_next/static/media/Satoshi-Variable.867b9a86.ttf) format("truetype")
 }
 
 @font-face {
@@ -11,7 +11,7 @@
     font-family: Satoshi-Italic;
     font-style: italic;
     font-weight: 300 900;
-    src: url(/_next/static/media/Satoshi-VariableItalic.7c85d340.woff2) format("woff2"), url(/_next/static/media/Satoshi-VariableItalic.08edfc72.woff) format("woff"), url(/_next/static/media/Satos[...]
+    src: url(/_next/static/media/Satoshi-VariableItalic.7c85d340.woff2) format("woff2"), url(/_next/static/media/Satoshi-VariableItalic.08edfc72.woff) format("woff"), url(/_next/static/media/Satoshi-VariableItalic.2ba48cbe.ttf) format("truetype")
 }
 
 @font-face {
@@ -19,7 +19,7 @@
     font-family: Satoshi-Light;
     font-style: normal;
     font-weight: 300;
-    src: url(/_next/static/media/Satoshi-Light.d3f699ab.woff2) format("woff2"), url(/_next/static/media/Satoshi-Light.ce217c5d.woff) format("woff"), url(/_next/static/media/Satoshi-Light.121b151d.[...]
+    src: url(/_next/static/media/Satoshi-Light.d3f699ab.woff2) format("woff2"), url(/_next/static/media/Satoshi-Light.ce217c5d.woff) format("woff"), url(/_next/static/media/Satoshi-Light.121b151d.ttf) format("truetype")
 }
 
 @font-face {
@@ -27,7 +27,7 @@
     font-family: Satoshi-LightItalic;
     font-style: italic;
     font-weight: 300;
-    src: url(/_next/static/media/Satoshi-LightItalic.0d87c97a.woff2) format("woff2"), url(/_next/static/media/Satoshi-LightItalic.51efbee6.woff) format("woff"), url(/_next/static/media/Satoshi-Lig[...]
+    src: url(/_next/static/media/Satoshi-LightItalic.0d87c97a.woff2) format("woff2"), url(/_next/static/media/Satoshi-LightItalic.51efbee6.woff) format("woff"), url(/_next/static/media/Satoshi-LightItalic.3fd6a38c.ttf) format("truetype")
 }
 
 @font-face {
@@ -35,7 +35,7 @@
     font-family: Satoshi-Regular;
     font-style: normal;
     font-weight: 400;
-    src: url(/_next/static/media/Satoshi-Regular.b1dca2a5.woff2) format("woff2"), url(/_next/static/media/Satoshi-Regular.bb2accee.woff) format("woff"), url(/_next/static/media/Satoshi-Regular.a12[...]
+    src: url(/_next/static/media/Satoshi-Regular.b1dca2a5.woff2) format("woff2"), url(/_next/static/media/Satoshi-Regular.bb2accee.woff) format("woff"), url(/_next/static/media/Satoshi-Regular.a12eb4fd.ttf) format("truetype")
 }
 
 @font-face {
@@ -43,7 +43,7 @@
     font-family: Satoshi-Italic;
     font-style: italic;
     font-weight: 400;
-    src: url(/_next/static/media/Satoshi-Italic.3eb4bb53.woff2) format("woff2"), url(/_next/static/media/Satoshi-Italic.43440d31.woff) format("woff"), url(/_next/static/media/Satoshi-Italic.84cd9c[...]
+    src: url(/_next/static/media/Satoshi-Italic.3eb4bb53.woff2) format("woff2"), url(/_next/static/media/Satoshi-Italic.43440d31.woff) format("woff"), url(/_next/static/media/Satoshi-Italic.84cd9c1d.ttf) format("truetype")
 }
 
 @font-face {
@@ -51,7 +51,7 @@
     font-family: Satoshi-Medium;
     font-style: normal;
     font-weight: 500;
-    src: url(/_next/static/media/Satoshi-Medium.22539d17.woff2) format("woff2"), url(/_next/static/media/Satoshi-Medium.f3941e68.woff) format("woff"), url(/_next/static/media/Satoshi-Medium.8217b72e.t[...]
+    src: url(/_next/static/media/Satoshi-Medium.22539d17.woff2) format("woff2"), url(/_next/static/media/Satoshi-Medium.f3941e68.woff) format("woff"), url(/_next/static/media/Satoshi-Medium.8217b72e.ttf) format("truetype")
 }
 
 @font-face {
@@ -59,7 +59,7 @@
     font-family: Satoshi-MediumItalic;
     font-style: italic;
     font-weight: 500;
-    src: url(/_next/static/media/Satoshi-MediumItalic.17afee50.woff2) format("woff2"), url(/_next/static/media/Satoshi-MediumItalic.5450477c.woff) format("woff"), url(/_next/static/media/Satoshi-Mediu[...]
+    src: url(/_next/static/media/Satoshi-MediumItalic.17afee50.woff2) format("woff2"), url(/_next/static/media/Satoshi-MediumItalic.5450477c.woff) format("woff"), url(/_next/static/media/Satoshi-MediumItalic.0a42a9ec.ttf) format("truetype")
 }
 
 @font-face {
@@ -67,7 +67,7 @@
     font-family: Satoshi-Bold;
     font-style: normal;
     font-weight: 700;
-    src: url(/_next/static/media/Satoshi-Bold.12084922.woff2) format("woff2"), url(/_next/static/media/Satoshi-Bold.b28a04c4.woff) format("woff"), url(/_next/static/media/Satoshi-Bold.c60efc8f.ttf) fo[...]
+    src: url(/_next/static/media/Satoshi-Bold.12084922.woff2) format("woff2"), url(/_next/static/media/Satoshi-Bold.b28a04c4.woff) format("woff"), url(/_next/static/media/Satoshi-Bold.c60efc8f.ttf) format("truetype")
 }
 
 @font-face {
@@ -75,7 +75,7 @@
     font-family: Satoshi-BoldItalic;
     font-style: italic;
     font-weight: 700;
-    src: url(/_next/static/media/Satoshi-BoldItalic.e51fcc53.woff2) format("woff2"), url(/_next/static/media/Satoshi-BoldItalic.b59cf06f.woff) format("woff"), url(/_next/static/media/Satoshi-BoldItali[...]
+    src: url(/_next/static/media/Satoshi-BoldItalic.e51fcc53.woff2) format("woff2"), url(/_next/static/media/Satoshi-BoldItalic.b59cf06f.woff) format("woff"), url(/_next/static/media/Satoshi-BoldItalic.6b91f0b4.ttf) format("truetype")
 }
 
 @font-face {
@@ -83,7 +83,7 @@
     font-family: Satoshi-Black;
     font-style: normal;
     font-weight: 900;
-    src: url(/_next/static/media/Satoshi-Black.c6d20a6b.woff2) format("woff2"), url(/_next/static/media/Satoshi-Black.28873509.woff) format("woff"), url(/_next/static/media/Satoshi-Black.12d5a2e3.ttf)[...]
+    src: url(/_next/static/media/Satoshi-Black.c6d20a6b.woff2) format("woff2"), url(/_next/static/media/Satoshi-Black.28873509.woff) format("woff"), url(/_next/static/media/Satoshi-Black.12d5a2e3.ttf) format("truetype")
 }
 
 @font-face {
@@ -91,7 +91,7 @@
     font-family: Satoshi-BlackItalic;
     font-style: italic;
     font-weight: 900;
-    src: url(/_next/static/media/Satoshi-BlackItalic.5400951d.woff2) format("woff2"), url(/_next/static/media/Satoshi-BlackItalic.22c3e8d9.woff) format("woff"), url(/_next/static/media/Satoshi-BlackIt[...]
+    src: url(/_next/static/media/Satoshi-BlackItalic.5400951d.woff2) format("woff2"), url(/_next/static/media/Satoshi-BlackItalic.22c3e8d9.woff) format("woff"), url(/_next/static/media/Satoshi-BlackItalic.eba0fcc2.ttf) format("truetype")
 }
 
 @font-face {
@@ -99,7 +99,7 @@
     font-family: Array;
     font-style: normal;
     font-weight: 400;
-    src: url(/_next/static/media/Array-Regular.8242ce3a.woff2) format("woff2"), url(/_next/static/media/Array-Regular.c130f658.woff) format("woff"), url(/_next/static/media/Array-Regular.a9137a19.ttf)[...]
+    src: url(/_next/static/media/Array-Regular.8242ce3a.woff2) format("woff2"), url(/_next/static/media/Array-Regular.c130f658.woff) format("woff"), url(/_next/static/media/Array-Regular.a9137a19.ttf) format("truetype")
 }
 
 @font-face {
@@ -107,7 +107,7 @@
     font-family: Array-Wide;
     font-style: normal;
     font-weight: 400;
-    src: url(/_next/static/media/Array-Wide.86c1353f.woff2) format("woff2"), url(/_next/static/media/Array-Wide.cb8a6e1d.woff) format("woff"), url(/_next/static/media/Array-Wide.7a43aaf8.ttf) format("[...]
+    src: url(/_next/static/media/Array-Wide.86c1353f.woff2) format("woff2"), url(/_next/static/media/Array-Wide.cb8a6e1d.woff) format("woff"), url(/_next/static/media/Array-Wide.7a43aaf8.ttf) format("truetype")
 }
 
 @font-face {
@@ -115,7 +115,7 @@
     font-family: Array-Semibold;
     font-style: normal;
     font-weight: 600;
-    src: url(/_next/static/media/Array-Semibold.c1ec766b.woff2) format("woff2"), url(/_next/static/media/Array-Semibold.cbdf455e.woff) format("woff"), url(/_next/static/media/Array-Semibold.6e57c4a0.t[...]
+    src: url(/_next/static/media/Array-Semibold.c1ec766b.woff2) format("woff2"), url(/_next/static/media/Array-Semibold.cbdf455e.woff) format("woff"), url(/_next/static/media/Array-Semibold.6e57c4a0.ttf) format("truetype")
 }
 
 @font-face {
@@ -123,7 +123,7 @@
     font-family: Array-SemiboldWide;
     font-style: normal;
     font-weight: 600;
-    src: url(/_next/static/media/Array-SemiboldWide.eac5771b.woff2) format("woff2"), url(/_next/static/media/Array-SemiboldWide.5f74e1e4.woff) format("woff"), url(/_next/static/media/Array-SemiboldWid[...]
+    src: url(/_next/static/media/Array-SemiboldWide.eac5771b.woff2) format("woff2"), url(/_next/static/media/Array-SemiboldWide.5f74e1e4.woff) format("woff"), url(/_next/static/media/Array-SemiboldWide.dc19b24f.ttf) format("truetype")
 }
 
 @font-face {
@@ -131,7 +131,7 @@
     font-family: Array-Bold;
     font-style: normal;
     font-weight: 700;
-    src: url(/_next/static/media/Array-Bold.e62f5a5e.woff2) format("woff2"), url(/_next/static/media/Array-Bold.06bda0a7.woff) format("woff"), url(/_next/static/media/Array-Bold.3a6c0dc8.ttf) format("[...]
+    src: url(/_next/static/media/Array-Bold.e62f5a5e.woff2) format("woff2"), url(/_next/static/media/Array-Bold.06bda0a7.woff) format("woff"), url(/_next/static/media/Array-Bold.3a6c0dc8.ttf) format("truetype")
 }
 
 @font-face {
@@ -139,7 +139,7 @@
     font-family: Array-BoldWide;
     font-style: normal;
     font-weight: 700;
-    src: url(/_next/static/media/Array-BoldWide.8fc47a20.woff2) format("woff2"), url(/_next/static/media/Array-BoldWide.b20d628b.woff) format("woff"), url(/_next/static/media/Array-BoldWide.683be9ac.t[...]
+    src: url(/_next/static/media/Array-BoldWide.8fc47a20.woff2) format("woff2"), url(/_next/static/media/Array-BoldWide.b20d628b.woff) format("woff"), url(/_next/static/media/Array-BoldWide.683be9ac.ttf) format("truetype")
 }
 
 *,
